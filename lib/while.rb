@@ -1,2 +1,4 @@
 def using_while
-   levitation < 10
+   levitation_force < 10
+   "the current number is less than 10"
+   
