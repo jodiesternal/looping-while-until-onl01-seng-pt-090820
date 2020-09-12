@@ -1,2 +1,2 @@
 def using_while
-   levitation
+   levitation < 10
