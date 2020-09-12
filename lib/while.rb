@@ -1,5 +1,5 @@
 def using_while
    levitation_force < 10
-   "the current number is less than 10"
+   "Wingardium Leviosa"
    counter +=1
 end
